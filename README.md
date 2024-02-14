@@ -1,4 +1,3 @@
-
 Game of Life - Une Implémentation Python
 Histoire du Jeu :
 Le "Game of Life" est un automate cellulaire créé par le mathématicien britannique John Horton Conway en 1970. Ce jeu est devenu célèbre pour sa capacité à simuler des systèmes complexes à partir de règles simples. Il est reconnu comme un exemple classique de la théorie des systèmes dynamiques et a fasciné les mathématiciens, les scientifiques, et les amateurs de jeux pour sa représentation de l'évolution et des patterns émergents.
@@ -16,12 +15,9 @@ L'utilisateur est invité à saisir la taille de la grille (nombre de lignes et 
 Ensuite, l'utilisateur entre les coordonnées des cellules vivantes initiales.
 Le jeu commence, affichant l'évolution de la grille à chaque itération.
 Images d'Utilisation :
-alt text
-Voici un exemple d'utilisation.
-
 
 ![alt text](image.png)
 
+voici un exemple d'utilisation.
 
 ![alt text](image-1.png)
-
